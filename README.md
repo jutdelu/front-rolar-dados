@@ -25,6 +25,7 @@ npm run dev
 
 ## Como usar
 Já rodando a aplicação, basta clicar no botão do dado que deseja rodar. Os botões disponíveis são D4, D6 e D8.
+Lembre-se de ter o backend rodando localmente.
 
 ## Tecnologias utilizadas
 Foram utilizados no projeto as seguintes tecnologias:
