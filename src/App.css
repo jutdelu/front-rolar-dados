@@ -24,7 +24,7 @@ body {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-    a .logo {
+    .logo {
       animation: logo-spin infinite 20s linear;
     }
 }
