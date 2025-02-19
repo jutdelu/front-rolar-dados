@@ -67,7 +67,7 @@ function App() {
 			sx={{ maxWidth: 700, margin: "auto", padding: 0, textAlign: "center" }}
 		>
 			<CardContent  sx={{ padding: "12px" }}>
-				<Header title="Sorteio de Dado" />
+				<Header title="Sorteio de Dados!" />
 				<div>
 					<a className="container">
 						<img
