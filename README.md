@@ -4,6 +4,8 @@
 
 Este projeto é um modelo em react de um frontend que ajuda a simular o giro de dados de 4, 6 e 8 faces.
 
+- [Repositório Backend](https://github.com/jutdelu/api-rolar-dados)
+
 ## Status do projeto
 
 Ainda em desenvolvimento.
