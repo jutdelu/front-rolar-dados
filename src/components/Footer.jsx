@@ -1,4 +1,20 @@
+import { Box, Typography } from "@mui/material";
+
 const Footer = ({ text }) => (
-	<footer className="mt-4 text-gray-600">{text}</footer>
+	<Box
+		component="footer"
+		sx={{
+			mt: 4,
+			color: "gray",
+			textAlign: "center",
+			width: "100%",
+			display: "flex",
+			justifyContent: "center",
+			alignItems: "center",
+		}}
+	>
+		<Typography>{text}</Typography>
+	</Box>
 );
+
 export default Footer;
